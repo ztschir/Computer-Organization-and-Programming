@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   302F
+//	ASCIIU                  3030
+//	CHKIFHI                 3024
+//	CHKIFLO                 3020
+//	CHKLOOP                 3010
+//	CHKPAL                  300A
+//	COUNTER                 3082
+//	EXIT                    30A7
+//	INC                     301D
+//	INPUT                   3003
+//	ISNOTP                  3093
+//	ISP                     3083
+//	ODD                     3031
+//	PRTIS                   3028
+//	PRTISNOT                302B
+//	STRCHAR                 3032
+//	TERMINATE               302E
